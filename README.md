@@ -18,10 +18,10 @@ Here are some of the technologies I'm proficient in:
 
 Feel free to connect with me on these platforms:
 
-- [Facebook](https://www.facebook.com/profile.php?id=100015136418544) ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-- [Twitter](https://twitter.com/Mohamed72797419) ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-- [LinkedIn](https://www.linkedin.com/in/mohamed-hani-32369b250) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-- [GitHub](https://github.com/mohamedhani222/) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- [Facebook](https://www.facebook.com/profile.php?id=100015136418544) 
+- [Twitter](https://twitter.com/Mohamed72797419)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-hani-32369b250)
+- [GitHub](https://github.com/mohamedhani222/)
 
 Feel free to reach out for discussions on Laravel, backend strategies, or anything tech-related. Together, we can shape the digital world one line of code at a time.
 
